@@ -1,5 +1,6 @@
 // Generated on 2016-09-05 using
 // generator-sk 2.0.1
+// Test
 
 //Require specific modules
 var gulp = require('gulp');
